@@ -1,0 +1,174 @@
+﻿[
+ //**********武器**********
+  {
+    "ID": 1001,
+    "Name": "匕首",
+    "Description": "农家用来削水果的。",
+    "Attack": 10,
+    "Violent": 0.05,
+	"Image": "BiShou"
+  },
+  {
+    "ID": 1002,
+	"Name": "赤炎",
+	"Description": "玉皇大帝做饭时用来起灶的。",
+	"Attack": 666,
+	"Violent": 0.3,
+	"Image": "ChiYan"
+  },
+  {
+    "ID": 1003,
+	"Name": "冰天",
+	"Description": "女娲补天用来舀熔岩的。",
+	"Attack": 450,
+	"Violent": 0.15,
+	"Image": "BingTian"
+  },
+  {
+    "ID": 1004,
+	"Name": "开山",
+	"Description": "盘古开天辟地时曾用过。",
+	"Attack": 700,
+	"Violent": 0.5,
+	"Image": "KaiShan"
+  },
+  {
+    "ID": 1005,
+	"Name": "血饮",
+	"Description": "使用七七七三四三条蚂蟥提炼而成。",
+	"Attack": 200,
+	"Violent": 0.1,
+	"Image": "XueYin"
+  },
+  {
+    "ID": 1006,
+	"Name": "村正",
+	"Description": "天皇切腹专用刀。",
+	"Attack": 45,
+	"Violent": 0.2,
+	"Image": "CunZheng"
+  },
+ //**********衣服**********
+  {
+    "ID": 2001,
+    "Name": "烈焰赤甲",
+    "Description": "消防队员必备。",
+    "Defense": 180,
+    "Image": "LieYanChiJia"
+  },
+  {
+    "ID": 2002,
+    "Name": "雪衣",
+    "Description": "夏日新品爆款。",
+    "Defense": 120,
+    "Image": "XueYi"
+  },
+  {
+     "ID": 2003,
+  "Name": "环保服",
+  "Description": "保护地球协会文化衫。",
+  "Defense": 100,
+  "Image": "HuanBaoFu"
+  },
+  {
+    "ID": 2004,
+    "Name": "圣诞装",
+    "Description": "圣诞节日服装。",
+    "Defense": 6,
+    "Image": "ShengDanZhuang"
+  },
+  {
+    "ID": 2005,
+    "Name": "性感吊带",
+    "Description": "女装大佬的不二选择。",
+    "Defense": 2,
+    "Image": "XingGanDiaoDai"	
+  },
+  {
+    "ID": 2006,
+    "Name": "纯手工线衣",
+    "Description": "二八月衣服,不能水洗。",
+    "Defense": 4,
+    "Image": "ChunShouGongXianYi"
+  },
+ //**********食物**********
+  {
+    "ID": 3001,
+    "Name": "清蒸甲鱼",
+    "Description": "好吧其实是只乌龟。",
+    "Cure": 888,
+    "Image": "QingZhengJiaYu"
+  },
+  {
+    "ID": 3002,
+    "Name": "派大星",
+    "Description": "派大星你怎么了,脸色蜡黄蜡黄的。",
+    "Cure": 180,
+    "Image": "PaiDaXing"
+  },
+  {
+    "ID": 3003,
+    "Name": "烤章鱼",
+    "Description": "看这颜色,已经熟了吧。",
+    "Cure": 450,
+    "Image": "KaoZhangYu"
+  },
+    {
+    "ID": 3004,
+    "Name": "三角鱼",
+    "Description": "因外型而得名。",
+    "Cure": 350,
+    "Image": "SanJiaoYu"
+  },
+    {
+    "ID": 3005,
+    "Name": "大炸蟹",
+    "Description": "连死状都那么霸道也是没谁了。",
+    "Cure": 500,
+    "Image": "DaZhaXie"
+  },
+    {
+    "ID": 3006,
+    "Name": "小宝贝",
+    "Description": "用锤子砸碎后取出里面的肉食用。",
+    "Cure": 200,
+    "Image": "XiaoBaoBei"
+  },
+ //**********道具**********
+  {
+    "ID": 4001,
+    "Name": "机密文件",
+    "Description": "没人知道里面写的什么,因为是机密。",
+    "Image": "JiMiWenJian"
+  },
+  {
+    "ID": 4002,
+    "Name": "乾坤圈",
+    "Description": "公园里套圈圈套来的。",
+    "Image": "QianKunQuan"
+  },
+  {
+    "ID": 4003,
+    "Name": "零星绿旗",
+    "Description": "用青草编制而成,可用来号令绿林军。",
+    "Image": "LingXingLvQi"
+  },
+       {
+    "ID": 4004,
+    "Name": "正宗假发",
+    "Description": "假一赔十,生产厂家已破产倒闭。",
+    "Image": "ZhengZongJiaFa"
+   },
+   {
+    "ID": 4005,
+    "Name": "玫瑰香包",
+    "Description": "放在鼻前一问:真香!就是有点扎手,把刺儿拔了就更完美了。",
+    "Image": "MeiGuiXiangBao"
+   },
+   {
+    "ID": 4006,
+    "Name": "捆仙绳",
+    "Description": "没事儿上上小吊,反正闲着也是闲着。",
+    "Image": "KunXianSheng"
+   }
+]
